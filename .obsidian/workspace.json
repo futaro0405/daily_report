@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0e0c0ac03fdfdc5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7e71144fb62c8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60922a92a227666",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94ec47026d438927",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f488d59e4950953",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c465ff9d69ccf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875e873b865a0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f597331b1a74c051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Provider",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37bf16d1af0dd81a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "5d0599b74f8d36fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4e00c3dc6702f0",
+        "type": "tabs",
+        "dimension": 36.15196078431372,
+        "children": [
+          {
+            "id": "15acbc095dfde7cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff5135cf4ca26765",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "926423c67f55ed91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fe344d8b7db35b9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "98940b1f3e40ffce",
+        "type": "tabs",
+        "dimension": 63.84803921568627,
+        "children": [
+          {
+            "id": "152b5a736832a8d7",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c53b5271517a722a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dc26740bd7853b7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "875e873b865a0d5e",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "40_work/K社/daily-report/06/06-19.md",
+    "40_work/K社/daily-report/06/06-18.md",
+    "40_work/K社/wiki/lecture.md",
+    "40_work/K社/memo.md",
+    "40_work/K社/課題/JS課題01.md",
+    "40_work/K社/wiki/検品.md",
+    "40_work/K社/wiki/各種手順.md",
+    "note/React/React-Router-dom.md",
+    "note/React/pages/React/hooks.md",
+    "note/React/index.md",
+    "note/React/pages/React/Compornets.md",
+    "note/React/pages/React",
+    "note/React/pages/React-Router-dom",
+    "note/React/pages/React/export.md",
+    "40_work/K社/daily-report/06/06-17.md",
+    "note/TypeScript/index.md",
+    "note/React/pages/React/useCallback.md",
+    "note/React/pages/React/react.md",
+    "note/TypeScript/pages/survival/typescript.md",
+    "note/TypeScript/pages/survival",
+    "note/TypeScript/pages/beginner/compare.md",
+    "note/TypeScript/pages/beginner/typeScript.md",
+    "note/TypeScript/pages/beginner/any.md",
+    "note/TypeScript/createTODO.md",
+    "note/TypeScript/pages/beginner/型アサーション.md",
+    "note/TypeScript/pages/beginner",
+    "note/TypeScript/pages/beginner/keyof.md",
+    "note/TypeScript/pages/beginner/ジェネリクス.md",
+    "note/TypeScript/pages/beginner/オプショナルチェーン.md",
+    "note/TypeScript/pages",
+    "note/git/public",
+    "Untitled",
+    "40_work/daily/2024/06-June",
+    "40_work/daily/2024",
+    "40_work/daily",
+    "note/React/public/images/Pasted image 20240609215532.png"
+  ]
+}
