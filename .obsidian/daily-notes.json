@@ -1,6 +1,6 @@
 {
   "template": "config/templates/template-daily",
   "folder": "",
-  "format": "YYYY/MM/DD",
+  "format": "[note]/YYYYMM/MMDD",
   "autorun": true
 }
