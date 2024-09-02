@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/2024/09/02.md",
+                "file": "note/202409/0902.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ed3ca007b87315e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old/2024/09/02.md",
+                "file": "note/202409/0902.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old/2024/09/02.md",
+                "file": "note/202409/0902.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old/2024/09/02.md"
+                "file": "note/202409/0902.md"
               }
             }
           },
@@ -173,10 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6827b7943459503d",
+  "active": "3a74a80e3d283c23",
   "lastOpenFiles": [
-    "old",
     "old/2024/09/02.md",
+    "note/202409/0902.md",
+    "note/202409",
+    "note",
+    "old",
     "old/2024/09"
   ]
 }
