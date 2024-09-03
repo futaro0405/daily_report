@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404_local/起動エラーlog.md"
+                "file": "note/202409/0903.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404_local/起動エラーlog.md",
+                "file": "note/202409/0903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "404_local/起動エラーlog.md",
+                "file": "note/202409/0903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7e42cf2803be53",
+  "active": "01875a2f1b34e5b6",
   "lastOpenFiles": [
-    "note/202409/0903.md",
     "404_local/起動エラーlog.md",
+    "note/202409/0903.md",
     "note/202409/0902.md",
     "404_local",
     "old/2024/09/02.md",
