@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/202409/0902.md",
+                "file": "note/202409/0903.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/202409/0902.md",
+                "file": "note/202409/0903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/202409/0902.md",
+                "file": "note/202409/0903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/202409/0902.md"
+                "file": "note/202409/0903.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "01875a2f1b34e5b6",
   "lastOpenFiles": [
-    "note/202409/0903.md",
     "note/202409/0902.md",
+    "note/202409/0903.md",
     "old/2024/09/02.md",
     "note/202409",
     "note",
