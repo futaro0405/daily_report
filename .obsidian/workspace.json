@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ed3ca007b87315e",
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3886fc02a305e83c",
+  "active": "3a74a80e3d283c23",
   "lastOpenFiles": [
     "404_local/起動エラーlog.md",
     "404_local/demoアプリ起動.md",
