@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01875a2f1b34e5b6",
+            "id": "3886fc02a305e83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3886fc02a305e83c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "404_local/demoアプリ起動.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404_local/demoアプリ起動.md"
+                "file": "404_local/起動エラーlog.md"
               }
             }
           }
@@ -98,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5ed3ca007b87315e",
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404_local/demoアプリ起動.md",
+                "file": "404_local/起動エラーlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "404_local/demoアプリ起動.md",
+                "file": "404_local/起動エラーlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a74a80e3d283c23",
+  "active": "3886fc02a305e83c",
   "lastOpenFiles": [
-    "404_local/起動エラーlog.md",
-    "404_local/demoアプリ起動.md",
     "note/202409/0903.md",
-    "note/202409/0904.md",
     "note/202409/0902.md",
+    "note/202409/0904.md",
+    "404_local/demoアプリ起動.md",
+    "404_local/起動エラーlog.md",
     "404_local",
     "old/2024/09/02.md",
     "note/202409",
