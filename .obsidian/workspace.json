@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b04bfb9d5b082a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "404_local/apk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404_local/起動エラーlog.md"
+                "file": "404_local/apk.md"
               }
             }
           }
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404_local/起動エラーlog.md",
+                "file": "404_local/apk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "404_local/起動エラーlog.md",
+                "file": "404_local/apk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,11 +213,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c56632aaef467608",
+  "active": "5b04bfb9d5b082a1",
   "lastOpenFiles": [
+    "404_local/Pasted image 20240905160241.png",
+    "404_local/Pasted image 20240905160134.png",
+    "404_local/Pasted image 20240905155953.png",
+    "404_local/起動エラーlog.md",
+    "404_local/apk.md",
     "404_local/demoアプリ起動.md",
     "404_local/20240905.md",
-    "404_local/起動エラーlog.md",
     "note/202409/0905.md",
     "note/202409/0904.md",
     "note/202409/0903.md",
