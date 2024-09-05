@@ -11,7 +11,7 @@
   "textNormal": 16,
   "textSmall": 12,
   "imgGrid": true,
-  "imgWidth": "img-max",
+  "imgWidth": "img-default-width",
   "tableWidth": "table-max",
   "iframeWidth": "iframe-max",
   "mapWidth": "map-max",
