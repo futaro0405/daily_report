@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "404_local/dailymemos.md",
+                "file": "404_local/ios.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404_local/dailymemos.md"
+                "file": "404_local/ios.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404_local/dailymemos.md",
+                "file": "404_local/ios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "404_local/dailymemos.md",
+                "file": "404_local/ios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +203,9 @@
   },
   "active": "c56632aaef467608",
   "lastOpenFiles": [
-    "404_local/起動エラーlog.md",
-    "404_local/ios.md",
     "404_local/demoアプリ起動.md",
+    "404_local/ios.md",
+    "404_local/起動エラーlog.md",
     "404_local/dailymemos.md",
     "404_local/pablic/Pasted image 20240905155953.png",
     "note/202409/0906.md",
