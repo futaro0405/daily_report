@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/202409/0912.md",
+                "file": "note/202409/0911.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/202409/0912.md"
+                "file": "note/202409/0911.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/202409/0912.md",
+                "file": "note/202409/0911.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/202409/0912.md",
+                "file": "note/202409/0911.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,8 @@
   },
   "active": "c56632aaef467608",
   "lastOpenFiles": [
-    "note/202409/0911.md",
     "note/202409/0912.md",
+    "note/202409/0911.md",
     "note/202409/0910.md",
     "404_local/apk.md",
     "404_local/dailymemos.md",
