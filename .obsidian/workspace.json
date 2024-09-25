@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/202409/0922.md",
+                "file": "note/202409/0925.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/202409/0922.md"
+                "file": "note/202409/0925.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/202409/0922.md",
+                "file": "note/202409/0925.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/202409/0922.md",
+                "file": "note/202409/0925.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,9 @@
   },
   "active": "c56632aaef467608",
   "lastOpenFiles": [
-    "note/202409/0902.md",
     "note/202409/0922.md",
+    "note/202409/0925.md",
+    "note/202409/0902.md",
     "note/202409/0913.md",
     "note/202409/0912.md",
     "note/202409/0911.md",
@@ -235,7 +236,6 @@
     "404_local/pablic/Pasted image 20240905160241.png",
     "404_local/pablic/Pasted image 20240905160134.png",
     "404_local",
-    "old/2024/09/02.md",
     "note/202409",
     "note",
     "old",
