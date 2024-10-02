@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/202409/0926.md",
+                "file": "note/202410/1002.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/202409/0926.md"
+                "file": "note/202410/1002.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/202409/0926.md",
+                "file": "note/202410/1002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/202409/0926.md",
+                "file": "note/202410/1002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,10 @@
   },
   "active": "c56632aaef467608",
   "lastOpenFiles": [
-    "note/202409/0925.md",
     "note/202409/0926.md",
+    "note/202410/1002.md",
+    "note/202410",
+    "note/202409/0925.md",
     "note/202409/0922.md",
     "note/202409/0902.md",
     "note/202409/0913.md",
@@ -227,7 +229,6 @@
     "404_local/apk.md",
     "404_local/dailymemos.md",
     "404_local/demoアプリ起動.md",
-    "404_local/ios.md",
     "404_local/pablic/Pasted image 20240905155953.png",
     "404_local/pablic",
     "404_local/pablic/Pasted image 20240905161809.png",
