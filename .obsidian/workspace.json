@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/202410/1009.md",
+                "file": "note/202410/1017.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "59ad533c0ed66ce4",
@@ -91,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/202410/1009.md"
+                "file": "note/202410/1017.md"
               }
             }
           }
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/202410/1009.md",
+                "file": "note/202410/1017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/202410/1009.md",
+                "file": "note/202410/1017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b3ba5966e387ba8",
+  "active": "3a74a80e3d283c23",
   "lastOpenFiles": [
+    "404_local/起動エラーlog.md",
+    "note/202410/1017.md",
     "note/202410/1002.md",
     "note/202410/1009.md",
     "note/202409/0926.md",
@@ -228,8 +229,6 @@
     "old/2024/04/01.md",
     "note/202409/0916.md",
     "note/202409/0917.md",
-    "404_local/apk.md",
-    "404_local/dailymemos.md",
     "404_local/pablic/Pasted image 20240905155953.png",
     "404_local/pablic",
     "404_local/pablic/Pasted image 20240905161809.png",
